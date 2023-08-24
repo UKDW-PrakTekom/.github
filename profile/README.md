@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hello guys 👋
+🙋‍♀️ Welcome to the Computer Technology Laboratory Repository at Duta Wacana Christian University! 
 
+This repository serves as the official resource for our students enrolled in the Computer Technology laboratory course. Here, you will find various lab projects, instructional materials, and references to aid you in understanding and mastering essential concepts in computer technology. We are committed to providing an interactive and supportive learning environment. Happy learning!
 <!--
 
 **Here are some ideas to get you started:**
